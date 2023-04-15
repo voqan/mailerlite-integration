@@ -1,4 +1,4 @@
-# Laravel MailerLite Integration
+# PHP MailerLite Integration
 
 This is a Laravel application that manages the subscribers of a MailerLite account via the MailerLite API. The application allows you to validate and save an API key, show subscribers using DataTables with pagination, create new subscribers, delete subscribers, and edit subscriber details.
 
