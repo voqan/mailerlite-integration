@@ -18,7 +18,7 @@ Clone the project repository from GitHub and run "composer install" to install t
 
 ## Step 3: Database configuration
 
-Configure the database connection in the .env file and import the sql file available under the root directory to create the required tables.
+Configure the database connection and add the MailerLite API key to your .env file. Import the sql file create_tables to create the required tables.
 
 ## Step 4: Run the application
 
